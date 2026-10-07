@@ -1,4 +1,4 @@
-/*! Glowup Online | simpleskin/styles | v1.0.1
+/*! Glowup Online | simpleskin/styles | v1.0.2
  * glowuponline.com
  * Proprietary template enhancement.
  *

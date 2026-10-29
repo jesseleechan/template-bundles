@@ -1,4 +1,4 @@
-/*! Glowup Online | atelier87/cinematic-marquee | v1.0.0
+/*! Glowup Online | atelier87/cinematic-marquee | v1.0.3
  * glowuponline.com
  * Proprietary template enhancement.
  *

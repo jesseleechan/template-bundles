@@ -1,4 +1,4 @@
-/*! Glowup Online | slatestudio/custom-css | v1.0.14
+/*! Glowup Online | slatestudio/custom-css | v1.0.15
  * glowuponline.com
  * Proprietary template enhancement.
  *
